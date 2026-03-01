@@ -1,72 +1,72 @@
-🚀 Sourav Pandey
+# Sourav Pandey
 
-B.Tech (AI & ML) | Software Engineer in Progress | Building Intelligent Systems
+**B.Tech (AI & ML) | Software Engineering Aspirant | Systems Thinker**
 
-👨‍💻 About Me
+---
 
-I’m an AI & ML undergraduate focused on building scalable, real-world solutions.
-My core interests lie in:
+## About
 
-Machine Learning & Applied AI
+I build intelligent systems that solve real-world problems.
 
-Data Structures & Algorithms
+AI & ML undergraduate with hands-on experience in applied machine learning, NLP, and system-level problem solving.  
+Currently focused on strengthening DSA fundamentals and production-grade development practices.
 
-Backend Engineering
+---
 
-Cloud & Deployment
+## Core Strengths
 
-Currently sharpening my foundations in DSA, ML systems, and production-grade deployment.
+- Data Structures & Algorithms  
+- Object-Oriented Design  
+- Machine Learning & NLP  
+- Backend Development  
+- Cloud & Deployment  
 
-🧠 Featured Projects
-🔹 Sanjeevani AI
+---
 
-AI-driven healthcare solution aimed at addressing medical accessibility in rural regions.
-Tech Stack: Python, ML Models, Data Processing
-→ Focused on predictive insights and accessibility.
+## Selected Work
 
-🔹 ANUVAD
+### Sanjeevani AI
+AI-powered healthcare solution aimed at improving medical accessibility in underserved regions.  
+Built predictive components and structured data pipelines for actionable insights.
 
-Real-time AI-based translation system detecting pronunciation nuances and emotional context.
-Tech Stack: NLP, Machine Learning, Python
-→ Designed for semantic accuracy, not just literal translation.
+### ANUVAD
+Real-time AI translation system with contextual and emotional interpretation.  
+Focused on semantic accuracy beyond literal word mapping.
 
-🔹 Traffic Intelligence System (SIH Concept)
+### Antarmaitri 2.0
+AI-driven mental wellness platform focused on personalized emotional insights and intelligent support systems.  
+Designed system logic for contextual analysis and user-centered recommendations to improve mental well-being engagement.
 
-AI-based adaptive traffic management system with real-time light optimization.
-→ Designed to dynamically manage multi-directional heavy traffic flows.
+---
 
-🛠 Tech Stack
+## Tech Stack
 
-Languages:
-Java | Python | SQL
+**Languages:** Java | Python | SQL  
 
-Core:
-Data Structures & Algorithms
-OOP | Multithreading | Stream API
+**Engineering:** OOP | Multithreading | Stream API | Git  
 
-AI/ML:
-Supervised Learning | NLP | Model Evaluation
+**AI/ML:** Supervised Learning | NLP | Model Evaluation  
 
-Tools & Platforms:
-Git | GitHub | Google Cloud | VS Code | Eclipse
+**Tools:** Google Cloud | VS Code | Eclipse  
 
-📈 Current Focus
+---
 
-Solving LeetCode Interview 150
+## Current Trajectory
 
-Deepening ML + Deployment understanding
+- Solving LeetCode and HarckerRank problem
+- Deepening ML systems understanding  
+- Improving deployment & backend skills  
+- Preparing for high-impact engineering roles  
 
-Strengthening system design fundamentals
+---
 
-Preparing for SDE-level opportunities
+## Connect
 
-📬 Connect With Me
+LinkedIn: www.linkedin.com/in/sourav-tech  
+Email: programmerxsourav@gmail.com
 
-LinkedIn: (Add link here)
+---
 
-Email: (Add professional email here)
+### Engineering Principle
 
-⚡ Philosophy
-
-Strong fundamentals. Clean code. Real-world impact.
-Build systems that solve problems — not just pass tests.
+Strong fundamentals. Clean architecture. Real impact.
